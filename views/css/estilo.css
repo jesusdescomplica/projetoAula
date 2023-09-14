@@ -1,0 +1,10 @@
+.login{
+	margin-top: 8%;
+	background-color: #ccc;
+	padding: 3%;
+	border-radius: 8px;
+}
+
+.bg-login{
+	background-color: #dedede;
+}
